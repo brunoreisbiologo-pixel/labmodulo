@@ -1,0 +1,8 @@
+laudos/
+ ├── index.php
+ ├── login.php
+ ├── painel.php
+ ├── salvar.php
+ ├── consultar.php
+ ├── ver.php
+ └── conexao.php
